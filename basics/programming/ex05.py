@@ -5,7 +5,7 @@ if answer == 'apples':
 
     print('cool')
 else:
-    print('you moron')
+    print('awesome')
 
 
 
