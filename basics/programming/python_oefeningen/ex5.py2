@@ -1,0 +1,9 @@
+print('do you like gold or silver')
+answer = input()
+
+if answer == 'gold':
+   print('nice')
+        
+
+elif answer == 'silver':
+     print('also nice')
