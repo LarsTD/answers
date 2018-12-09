@@ -2,7 +2,7 @@
 
 print('Pick an operation')
 
-'''Operation = '' means that when i type an operator, it will use that exact operator'''
+'''Operation = '' means that when you type an operator, it will use that exact operator'''
 operation = ''
 
 '''while not operation: is an command that will go in an endless loop until you enter an valid operator.'''
