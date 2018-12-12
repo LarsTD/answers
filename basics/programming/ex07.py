@@ -1,5 +1,3 @@
-
-
 answer = ''
 
 while not answer:
